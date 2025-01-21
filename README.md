@@ -32,7 +32,7 @@ Covers basic concepts :
 
 Pick your language to view the guide : 
 
-[RU](https://github.com/q-sag/q-guide/blob/main/Chapter%201/ru/ru.md) | [EN](https://github.com/q-sag/q-guide/blob/main/Chapter%201/en/en.md) 
+[RU](Chapter 1/ru/ru.md) | [EN](Chapter 1/ru/en.md) 
 
 ## Chapter 2 : 
 
